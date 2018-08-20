@@ -8,8 +8,12 @@ Link to [example p5js Javascript program is here](http://alpha.editor.p5js.org/d
 [http://alpha.editor.p5js.org](http://alpha.editor.p5js.org) is an online editor that gives you blank templates for p5js sketches. Sign up is easy, and when you have an account you can copy/edit posted sketches (like mine above) and upload your own files (audio, image, etc) to be used in your sketches.
 
 
+
 A copy of the p5js will be hosted this this repository, as well as the Arduino sketch that will be loaded onto the Teensy LC microcontrollers.
 
+
 [Teensy LC, at PJRC](https://www.pjrc.com/store/teensylc.html)
+
 [Teensyduino Setup Tutorial](https://www.pjrc.com/teensy/tutorial.html)
+
 [Teensy USB MIDI Reference](https://www.pjrc.com/teensy/td_midi.html) (This is a little dense and technical, don't worry if you don't understand it all. Good as a general reference)
